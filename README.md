@@ -7,7 +7,7 @@ http://127.0.0.1:5500/Guvi%20Tasks/TASK%20DAY%2012/index1.html // SURVEY FORM
 
 
 
-http://127.0.0.1:5500/Guvi%20Tasks/TASK%20DAY%2012@.html/index.html// SEARCH EVENT
+http://127.0.0.1:5500/Guvi%20Tasks/TASK%20DAY%2012@.html/index.html   // SEARCH EVENT
 
 ![image](https://github.com/sowbi30/TASK-DAY-12/assets/123854536/6d55af57-4d37-44fe-b3fd-3bec7ba3b8ad)
 
